@@ -259,6 +259,7 @@ Among Us 支持版本: 16.0.5
 
 ## 14.Endless Host Roles
 
+![image](https://github.com/Gurge44/EndlessHostRoles/blob/main/Resources/Images/EHR-Icon.png)  
 [Github仓库(点这)](https://github.com/Gurge44/EndlessHostRoles)
 
 最新版本:v5.6.7
@@ -267,6 +268,7 @@ Among Us 支持版本:16.0.5
 
 ## 15.Stellar Roles
 
+![image](https://github.com/Mr-Fluuff/StellarRolesAU/blob/main/StellarRoles/Resources/Banners/StellarBanner.png)  
 [Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
 
 最新版本:v2025.5.12
@@ -284,6 +286,7 @@ Among Us 支持版本：16.0.4
 
 ## 17.HarryPotter AnthoYt Fork
 
+![image](https://github.com/user-attachments/assets/87d30762-3166-4351-b044-56d2fb747511)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/AnthoYt/HarryPotter-AmongUs)  
 
 最新版本：v2025.5.22  
@@ -396,11 +399,13 @@ Among Us 支持版本：2021.6.30
 > | Slenderman     | 瘦长鬼影   |
 > | Zombies        | 僵尸       |
 > | Cops & Robbers | 警察抓小偷 |
+> | Hot Potato     | 热土豆     |
 > | Jester         | 小丑       |
 > | Troll          | 小鬼       |
 > | Detective      | 侦探       |
 > | 50-50          | 两组克隆人 |
 > | CrazyColors:   | 疯狂变色   |
+> | Venteleporter  | 传送管道   |
 > | Twins          | 双胞胎     |
 > | Clones         | 克隆人     |
 > | Escalation     | 加速       |
@@ -655,6 +660,7 @@ Among Us 支持版本: 2023.6.13
 
 ## 1.BetterCrewLink
 
+![image](https://github.com/OhMyGuus/BetterCrewLink/blob/nightly/static/images/logos/sizes/256-BCL-Logo-shadow.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
 
 最新版本：v3.1.3  
@@ -669,6 +675,7 @@ Among Us 支持版本：大部分Among Us 版本
 
 ## 2.CrewLink
 
+![image](https://github.com/ottomated/CrewLink/blob/master/logo.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)  
 
 最新版本：v2.0.1  
@@ -680,6 +687,7 @@ Among Us 支持版本：2021.11.9.2s
 
 ## 3.ReplayInWindow
 
+![image](https://github.com/sawa90/AmongUsReplayInWindow/blob/images/scrnshot3.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)  
 
 最新版本：v2.0.3  
@@ -690,6 +698,7 @@ Among Us 支持版本：任意版本
 
 ## 4.ModManager
 
+![image](https://amodsus.com/attachments/modmanager7-png.27601/)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)  
 
 最新版本：v7.0.4  
@@ -699,7 +708,7 @@ Among Us 支持版本：大部分版本
 > 功能：模组管理器，实现快速更换模组  
 
 ## 5.LevelImposter-Editor
-![image](https://camo.githubusercontent.com/f55150ac1820966f8e30cfac3d138fe4e33da49ecc5d14897b73aef5a8a59447/68747470733a2f2f692e696d6775722e636f6d2f456665514a68342e706e67)  
+![image](https://i.imgur.com/EfeQJh4.png)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter-Editor)  
 [官方网站 ( 点这 ) ](https://editor.levelimposter.net/)  
 
@@ -782,7 +791,7 @@ Among Us 支持版本：2024.11.26 & 2024.10.29 & 2024.9.4 & 2024.8.13
 | 한국어                    | ❌ |  不支持  |
 
 ## 2.LevelImposter
-![image](https://camo.githubusercontent.com/c09b74dc523d551de620bd8b9ec152a86ad38ed1a33f4356cda81552eb515717/68747470733a2f2f692e696d6775722e636f6d2f76774a6d4849622e706e67)  
+![image](https://i.imgur.com/EfeQJh4.png)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter)  
 [官方网站 ( 点这 ) ](https://levelimposter.net/)  
 
