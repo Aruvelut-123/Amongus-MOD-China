@@ -84,6 +84,7 @@
 # 链接
 
 [![image](./Image/bili.png)](https://space.bilibili.com/64116958)
+[![image](./Image/bili.png)](https://space.bilibili.com/475655508)
 [![image](./Image/hanpi.png)](https://amonguscn.club)
 
 # 模组
