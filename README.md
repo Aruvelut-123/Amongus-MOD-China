@@ -45,15 +45,16 @@
   - [19.TownOfThem](#19townofthem)
   - [20.Project Lotus](#20project-lotus)
 - [工具](#工具)
-  - [１.BetterCrewLink](#１bettercrewlink)
-  - [２.CrewLink](#２crewlink)
-  - [３.ReplayInWindow](#３ReplayInWindow)
-  - [４.ModManager](#４modmanager)
-  - [５.Levelimposter-editor](#５levelimposter-editor)
-  - [６.MultiClientInstancing](#６multiclientinstancing)
+  - [1.BetterCrewLink](#1bettercrewlink)
+  - [2.CrewLink](#2crewlink)
+  - [3.ReplayInWindow](#3ReplayInWindow)
+  - [4.ModManager](#4modmanager)
+  - [5.Levelimposter-editor](#5levelimposter-editor)
+  - [6.MultiClientInstancing](#6multiclientinstancing)
+  - [7.Impostor](#7impostor)
 - [地图](#地图)
-  - [１.Submerged](#１submerged)
-  - [２.levelimposter](#２levelimposter)
+  - [1.Submerged](#1submerged)
+  - [2.levelimposter](#2levelimposter)
 - [多语言样式声明](#多语言样式声明)
   - [简体中文（SChinese）](#简体中文schinese)
   - [繁體中文（TChinese）](#繁體中文tchinese)
@@ -652,21 +653,21 @@ Among Us 支持版本: 2023.6.13
 > [Town Of Host:The Other Roles](#9townofhost---theotherroles) 的续作,来自韩国的tealeaf(단풍잎)为主要开发人,现已停更
 # 工具
 
-## １.BetterCrewLink
+## 1.BetterCrewLink
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
 
-最新版本：v3.0.5  
+最新版本：v3.1.3  
 Among Us 支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
 > 已支持中文  
 > 功能：实现游戏内近距离语音  
-> 注：服务器有问题，需自行搭建语音服务器  
+> 注：服务器有问题，需准备梯子或自行搭建语音服务器  
 
 
 
-## ２.CrewLink
+## 2.CrewLink
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)  
 
@@ -677,7 +678,7 @@ Among Us 支持版本：2021.11.9.2s
 > 注：已断更，如有需要请使用BetterCrewLink。  
 
 
-## ３.ReplayInWindow
+## 3.ReplayInWindow
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)  
 
@@ -687,44 +688,53 @@ Among Us 支持版本：任意版本
 
 > 功能：对战全局回放、事件记载  
 
-## ４.ModManager
+## 4.ModManager
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)  
 
-最新版本：v5.3.7  
+最新版本：v7.0.4  
 Among Us 支持版本：大部分版本  
-更新状况：持续更新中  
+更新状况：断更  
 
 > 功能：模组管理器，实现快速更换模组  
 
-## ５.LevelImposter-Editor
+## 5.LevelImposter-Editor
 ![image](https://camo.githubusercontent.com/f55150ac1820966f8e30cfac3d138fe4e33da49ecc5d14897b73aef5a8a59447/68747470733a2f2f692e696d6775722e636f6d2f456665514a68342e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter-Editor)  
 [官方网站 ( 点这 ) ](https://editor.levelimposter.net/)  
 
 >  搭配LevelImposter模组的地图编辑制作器(已支持中文)  
 
-## ６.MultiClientInstancing
+## 6.MultiClientInstancing
 
 [ Github仓库 ( 点这 ) ](https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing)  
 
-最新版本：v0.0.5  
-Among Us 支持版本：2023.2.28  
-更新状况：持续更新中  
+最新版本：v0.0.6  
+Among Us 支持版本：2023.6.13  
+更新状况：几乎停更  
 
 > 功能：可在游戏内添加机器人玩家，可在本体与其他机器人视角中切换并控制  
 > 注：仅作为模组的样貌预览使用，具体游戏功能可能不生效，并不能胜任“模组测试”这项工作。 
 
+## 7.Impostor
+
+[ Github仓库 ( 点这 ) ](https://github.com/Impostor/Impostor/)  
+
+最新版本：v1.10.3  
+Among Us 支持版本：2024.6.18 ~ 16.0.5  
+更新状况：持续更新  
+
+> 私服必备   
 
 # 地图
 
-## １.Submerged
+## 1.Submerged
 
-![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)  
+![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Submerged/Resources/Images/Logo.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)  
 
-最新版本：v2022.10.26  
-Among Us 支持版本：2022.10.25  
+最新版本：v2025.1.30  
+Among Us 支持版本：2024.11.26 & 2024.10.29 & 2024.9.4 & 2024.8.13  
 更新状况：持续更新中  
 
 >  支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可  
@@ -763,6 +773,7 @@ Among Us 支持版本：2022.10.25
 | 日本語                    | ✅ |   支持   |
 | 简体中文                  | ✅ |   支持   |
 | 繁體中文                  | ✅ |   支持   |
+| Español               	|🟡	|部分支持|
 | Bisaya                    | ❌ |  不支持  |
 | Español (Latinoamérica) | ❌ |  不支持  |
 | Gaeilge                   | ❌ |  不支持  |
@@ -770,10 +781,20 @@ Among Us 支持版本：2022.10.25
 | Português                | ❌ |  不支持  |
 | 한국어                    | ❌ |  不支持  |
 
-## ２.LevelImposter
+## 2.LevelImposter
 ![image](https://camo.githubusercontent.com/c09b74dc523d551de620bd8b9ec152a86ad38ed1a33f4356cda81552eb515717/68747470733a2f2f692e696d6775722e636f6d2f76774a6d4849622e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter)  
 [官方网站 ( 点这 ) ](https://levelimposter.net/)  
+
+## 部分模组支持情况
+| 模组 | ❔ | 额外注释 |
+|:-:|:-:|:-:|
+| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | ✅ | 墙壁检测失效 |
+| [The Other Roles](https://github.com/TheOtherRolesAU/TheOtherRoles) | ✅ |  |
+| [Town of Us-R](https://github.com/eDonnes124/Town-Of-Us-R) | ✅ |  |
+| [Town of Us Reworked](https://github.com/AlchlcDvl/TownOfUsReworked) | ⚠️ | 模组还在早期测试阶段 |
+| [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU) | ✅ |  |
+| [Submerged](https://github.com/SubmergedAmongUs/Submerged) | ⚠️ | 部分视觉错误 |
 
 > 搭配 LevelImposter 地图编辑制作器的地图模组  
 
