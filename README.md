@@ -20,8 +20,9 @@
   - [13.Lotus Continued](#13lotus-continued)
   - [14.Endless Host Roles](#14Endless-Host-Roles)
   - [15.Stellar Roles](#15Stellar-Roles)
-  - [16.HarryPotter AnthoYt Fork](#16HarryPotter-AnthoYt-Fork)
-  - [17.HarryPotter XtremeWave Fork](#17HarryPotter-XtremeWave-Fork)
+  - [16.TheOtherRoles GMIA](#16theotherroles-gmia)
+  - [17.HarryPotter AnthoYt Fork](#17HarryPotter-AnthoYt-Fork)
+  - [18.HarryPotter XtremeWave Fork](#18HarryPotter-XtremeWave-Fork)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -245,7 +246,7 @@ Among Us 支持版本：2024.10.29
 
 ## 13.Lotus Continued
 
-![image](https://github.com/Lotus-AU/LotusContinued/blob/main/assets/LotusBanner.png)
+![image](https://avatars.githubusercontent.com/u/173427715)
 
 [Github仓库(点这)](https://github.com/Lotus-AU/LotusContinued)
 
@@ -280,7 +281,7 @@ Among Us 支持版本:16.0.2
 Among Us 支持版本：16.0.4   
 更新状况：持续更新中  
 
-## 18.HarryPotter AnthoYt Fork
+## 17.HarryPotter AnthoYt Fork
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/AnthoYt/HarryPotter-AmongUs)  
 
@@ -288,7 +289,7 @@ Among Us 支持版本：16.0.4
 Among Us 支持版本：16.0.0 & 16.0.2  
 更新状况：持续更新中 
 
-## 19.HarryPotter XtremeWave Fork
+## 18.HarryPotter XtremeWave Fork
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/XtremeWave/HarryPotterAmongUs-R)  
 
