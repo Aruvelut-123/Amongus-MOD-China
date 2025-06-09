@@ -274,7 +274,7 @@ Among Us 支持版本:16.0.2
 
 ## 16.TheOtherRoles GMIA
 
-![image](image/TOR_GMIA_Logo.png)
+![image](https://github.com/dabao40/TheOtherRolesGMIA/assets/73883362/12d1b24d-62c9-421b-9298-592a3a031225)
 [ GitHub仓库 ( 点这 ) ](https://github.com/dabao40/TheOtherRolesGMIA)  
 
 最新版本：v1.3.3  
