@@ -230,7 +230,7 @@ Among Us 支持版本：16.0.0 & 16.0.2
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v519.27.1 
+最新版本：v519.27.1  
 Among Us 支持版本：16.0.0  
 更新状况：持续更新  
 
@@ -242,7 +242,7 @@ Among Us 支持版本：16.0.0
 
 [Github仓库 ( 点这 ) ](https://github.com/AlchlcDvl/TownOfUsReworked)  
 
-最新版本：v0.7.0
+最新版本：v0.7.0  
 Among Us 支持版本：2024.10.29  
 更新状况：持续更新中  
 
@@ -252,9 +252,9 @@ Among Us 支持版本：2024.10.29
 
 [Github仓库(点这)](https://github.com/Lotus-AU/LotusContinued)
 
-最新版本: v1.2.0
-Among Us 支持版本: 16.0.5
-更新状况: 持续更新中
+最新版本: v1.2.0  
+Among Us 支持版本: 16.0.5  
+更新状况: 持续更新中  
 
 > [Project:Lotus](#20project-lotus)的续作,主要由[discussion](https://github.com/discus-sions),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)),该模组使用自研框架。特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能。支持简体中文(需要去模组的[语言仓库](https://github.com/Lotus-AU/Languages)自行安装)
 
@@ -263,18 +263,18 @@ Among Us 支持版本: 16.0.5
 ![image](https://github.com/Gurge44/EndlessHostRoles/blob/main/Resources/Images/EHR-Icon.png)  
 [Github仓库(点这)](https://github.com/Gurge44/EndlessHostRoles)
 
-最新版本:v5.6.7
-Among Us 支持版本:16.0.5
-更新状况:持续更新中
+最新版本:v5.6.7  
+Among Us 支持版本:16.0.5  
+更新状况:持续更新中  
 
 ## 15.Stellar Roles
 
 ![image](https://github.com/Mr-Fluuff/StellarRolesAU/blob/main/StellarRoles/Resources/Banners/StellarBanner.png)  
 [Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
 
-最新版本:v2025.5.12
-Among Us 支持版本:16.0.2
-更新状况:持续更新中
+最新版本:v2025.5.12  
+Among Us 支持版本:16.0.2  
+更新状况:持续更新中  
 
 ## 16.TheOtherRoles GMIA
 
@@ -299,8 +299,8 @@ Among Us 支持版本：16.0.0 & 16.0.2
 [ GitHub仓库 ( 点这 ) ](https://github.com/XtremeWave/HarryPotterAmongUs-R)  
 
 最新版本：v2.2.2  
-Among Us 支持版本：16.0.0 & 16.0.2 
-更新状况：持续更新中 
+Among Us 支持版本：16.0.0 & 16.0.2  
+更新状况：持续更新中  
 
 # 旧模组
 
