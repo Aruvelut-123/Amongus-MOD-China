@@ -645,9 +645,9 @@ Among Us 支持版本：无
 ![image](https://github.com/ImaMapleTree/Lotus/blob/main/assets/LotusBanner1.png)
 [Github仓库(点这)](https://github.com/ImaMapleTree/Lotus)
 
-最新版本: v1.0.0 
-Among Us 支持版本: 2023.6.13 
-更新情况: 停更 
+最新版本: v1.0.0  
+Among Us 支持版本: 2023.6.13  
+更新情况: 停更  
 
 > [Town Of Host:The Other Roles](#9townofhost---theotherroles) 的续作,来自韩国的tealeaf(단풍잎)为主要开发人,现已停更
 # 工具
